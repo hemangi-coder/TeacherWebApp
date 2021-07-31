@@ -23,3 +23,5 @@ vaderSentiment==3.3.2
 xlrd==2.0.1 
 openpyxl==3.0.6
 Pillow==6.2.1
+streamlit-webcam-example==0.1.0
+pyarrow==4.0.1
